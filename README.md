@@ -11,14 +11,14 @@
   <li>Unicorns (Yes they are real)</li>
   <li>Otters</li>
 </ul>
-<img src= "https://share.google/images/7br8ABWzfViHIVxP1"
+<img src="https://pt.pngtree.com/freepng/smiling-face-with-thumbs-up-emoji_17920558.html"
 <h4>My Favourite colours</h4>
 <ul>
   <li>Beige</li>
   <li>White</li>
   <li>Black</li>
 </ul>
-<img src= "https://share.google/images/KmOB8ttjoC7WpbZRP"
+<img src="https://pt.pngtree.com/freepng/smiling-face-with-thumbs-up-emoji_17920558.html"
 <h5>Thats all from me!</h5>
 <p>Thank you for tuning in my page, God bless and see you soon!</p>
 <p>Matthew 17:20 "If you have faith as small as a mustard seed, and you asked a mountain to move from here to there, it would move. Nothing would be impossible."</p>
