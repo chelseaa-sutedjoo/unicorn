@@ -6,10 +6,10 @@
 <p>Fun fact, I get sick really easily :(, ever since I got covid in 2022, my immune system have been gradually decreasing. I get sick atleast one time every month (oops).</p>
 <h3>My Favourite animals</h3>
 <ul>
-  <li>Cats (Fluffy, fat ones)</li>
-  <li>Dogs (Specifically daschund)</li>
-  <li>Unicorns (Yes they are real)</li>
-  <li>Otters</li>
+  <li>Cats (Fluffy, fat ones) 🐱</li>
+  <li>Dogs (Specifically daschund) 🐶</li>
+  <li>Unicorns (Yes they are real) 🦄</li>
+  <li>Otters 🦦</li>
 </ul>
 <img src="https://pt.pngtree.com/freepng/smiling-face-with-thumbs-up-emoji_17920558.html"
 <h4>My Favourite colours</h4>
